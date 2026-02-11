@@ -1,0 +1,7 @@
+{
+  "name": "GlobalPulse News Aggregator",
+  "description": "A high-performance daily news aggregator that allows users to search by theme, country, and world impact using Gemini Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
